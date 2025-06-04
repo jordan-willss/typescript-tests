@@ -20,6 +20,7 @@ git checkout origin/fields-and-functions-lesson
 
 The current list of available branches is:
 * fields-and-functions-lesson
+* fields-and-functions-lesson-hard
 
 ## Installation and running
 
