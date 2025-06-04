@@ -15,5 +15,5 @@ git checkout <branch>
 Where `<branch>` is the name of the branch, with the `origin/` prefix, for example:
 
 ```
-git checkout origin/fields-and-parameters-lesson
+git checkout origin/fields-and-functions-lesson
 ```
